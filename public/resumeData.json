@@ -1,0 +1,162 @@
+{
+  "main": {
+    "name": "Prakash Singh",
+    "occupation": "Student",
+    "description": "An ambitious and self-motivated software developer with a considerable technical skill who possesses self- disciplineand ability to work with minimum of supervision. Able to play a key role in website development to ensuremaximum accessibility, user experience and usability. A quick learner who can absorb new ideas and can communicate clearly and effectively.",
+    "image": "profilepic.jpeg",
+    "bio": "Hi, My name is Prakash Singh, and I am currently pursuing my Bachelors in Technology in CSE with Full Stack Development Specialisation from The Northcap University, Gurugram. My main objective is to work in an organization where I can acquire new knowledge, sharpen my skills and put my efforts into achieving organization as well as personal goals.",
+    "contactmessage": "Hey !! If want to know more about me or want to contact me then fill this form below and I will contact you.",
+    "email": "prakash19csu214@ncuindia.edu",
+    "phone": "8700188747",
+    "address": {
+      "street": "Sector - 4",
+      "city": "Gurgaon",
+      "state": "Haryana",
+      "zip": "122001"
+    },
+    "website": "#",
+    "resumedownload": "https://drive.google.com/u/1/uc?id=1AjL0zOeksfmM-380l0BIlcIUtPuOMWgT&export=download",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/prakash.singh.214",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/prakash_singh11",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/prakash-singh-9b6194191",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/_prakash.singh_/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/prakash19csu214/",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Below are my skills",
+    "education": [
+      {
+        "school": "The North Cap University, Gurgaon",
+        "degree": "Bachelor of Technology - Computer Science And Engineering",
+        "graduated": "2019 - 2023",
+        "description": ""
+      },
+      {
+        "school": "Gyandeep Sr. Sec. School",
+        "degree": "10th and 12th,",
+        "graduated": "2015 - 2019",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Make Me Builder",
+        "title": "Full Stack Developer",
+        "years": "Jul 2021 - Nov 2021",
+        "description": "During this internship I worked on Make Me Builder Website using Ruby On Rails Framework and also made an ecommerce website as part of this internship."
+      },
+      {
+        "company": "Country Edu Pvt. Ltd.",
+        "title": "Web Developer",
+        "years": "May 2022 - August 2022",
+        "description": "During this internship I worked on various projects including frontend and backend development. Also, I got to know about different frameworks like Angular and Reactjs."
+      },
+      {
+        "company": "Haryana Police",
+        "title": "Cyber Security Intern",
+        "years": "Jun 2021 - Jul 2021",
+        "description": "Learned about countering different kinds of social media crimes, cyber crimes and the tricks used by hackers to exploit someone. The training of internship has been done by Cyber Security Expert Mr. Rakshit Tandon and police officers."
+      },
+      {
+        "company": "Universal Tribes",
+        "title": "Human Resources (HR)",
+        "years": "Aug 2021 - Oct 2021",
+        "description": "My Responsibilities in this internship are Hiring Sales & Marketing Interns, Recruitment of Interns, Reviewing Applications, Taking Interviews and Conducting Meetings"
+      },
+      {
+        "company": "Universal Tribes",
+        "title": "Sales & Marketing",
+        "years": "Jul 2021 - Aug 2021",
+        "description": "Daily reporting of interactions with customers. Promotion of different products from company on all over social media."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "Nodejs",
+        "level": "80%"
+      },
+      {
+        "name": "NextJs",
+        "level": "70%"
+      },
+      {
+        "name": "AngularJs",
+        "level": "80%"
+      },
+      {
+        "name": "Ruby On Rails",
+        "level": "75%"
+      },
+      {
+        "name": "Flutter",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "My GitHub Profile",
+        "category": "GitHub",
+        "image": "GitHubProfile.png",
+        "url": "https://github.com/prakash19csu214/"
+      },
+      {
+        "title": "Restaurant App",
+        "category": "Restaurant",
+        "image": "Restaurant.png",
+        "url": "https://prakashsingh-restaurant.herokuapp.com/"
+      },
+      {
+        "title": "Convox - Chat App",
+        "category": "Chatting App",
+        "image": "ChatApp.png",
+        "url": "https://prakashsingh-restaurant.herokuapp.com/"
+      },
+      {
+        "title": "Friends App - Todo List for friends",
+        "category": "Friends",
+        "image": "Friends.png",
+        "url": "https://prakashsingh-restaurant.herokuapp.com/"
+      }
+    ]
+  }
+}
